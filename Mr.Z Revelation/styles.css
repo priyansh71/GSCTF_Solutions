@@ -1,0 +1,23 @@
+body {
+  /* text-transform: togglecase;  is this correct?*/
+  background-image: url("https://images.unsplash.com/photo-1586769852836-bc069f19e1b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80");
+  background-size: 100vw 100vh;
+}
+.heading {
+  text-align: center;  
+  /* Part 3 of flag: rD_m0D_i5_ */
+  /* Wanna know more about me? I use the same text styles everywhere because I love it that way. */
+}
+
+hr.style-three {
+  /* text-transform: togglecase; */
+  border: 0;
+  border-bottom: 1px dashed #ccc;
+  background: #999;
+}
+
+/* article{
+  text-transform: togglecase;
+  background-image: url("https://yt3.ggpht.com/JVTJHpdwc5AR6ntZu96w-K0M44uLx93RUnUfSFaSMb-BL6cyw4T6ipXJOIpKNbBUQV0fdju7=s900-c-k-c0x00ffffff-no-rj");
+} */
+
