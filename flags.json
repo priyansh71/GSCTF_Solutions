@@ -18,5 +18,10 @@
 		"challenge" : "Where there is a will, there is a gate",
 		"category" : "Forensics and Cryptography",
 		"flag" : "GSCTF{3v3ry7h1ng_c4n_b3_r3p34t3dly_x0rr3d_u51ng_4ny7h1ng}"
+	},
+	{
+		"challenge" : "Ok",
+		"category" : "Cryptography",
+		"flag" : "GSCTF{50M3T1M35_1T5_0K_2B_0K}"
 	}
 ]
