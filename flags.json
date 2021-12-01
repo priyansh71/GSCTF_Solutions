@@ -23,5 +23,20 @@
 		"challenge" : "Ok",
 		"category" : "Cryptography",
 		"flag" : "GSCTF{50M3T1M35_1T5_0K_2B_0K}"
+	},
+	{
+		"challenge" : "Space Doge",
+		"category" : "Forensics",
+		"flag" : "GSCTF{w0tta_cut3_d0g3}"
+	},
+	{
+		"challenge" : "What a weird keyboard!",
+		"category" : "Cryptography",
+		"flag" : "GSCTF{W31RD_K3YB0ARD_LAY0UT5}"
+	},
+	{
+		"challenge" : "What the JS?",
+		"category" : "Cryptography",
+		"flag" : "GSCTF{br41nfucks_t1ny_s1bl1ng}"
 	}
 ]
